@@ -59,7 +59,7 @@ export default class InventoryItems extends Component {
                                                 <td>1100000307</td>
                                             </tr>
                                             <tr>
-                                                <td>TTU 730</td>
+                                                <td>TTU 730 <small>(NPAT)</small></td>
                                                 <td>VZ</td>
                                                 <td>1100000082</td>
                                             </tr>
@@ -73,12 +73,12 @@ export default class InventoryItems extends Component {
                                         </thead>
                                         <tbody>
                                             <tr>
-                                                <td>TTU 2830</td>
+                                                <td>TTU 2830 <small>(Canada)</small></td>
                                                 <td>AT&T</td>
                                                 <td>1100000012</td>
                                             </tr>
                                             <tr>
-                                                <td>LMU 2630</td>
+                                                <td>LMU 2630 <small>(Mexico)</small></td>
                                                 <td>Voda</td>
                                                 <td>1100000185</td>
                                             </tr>
