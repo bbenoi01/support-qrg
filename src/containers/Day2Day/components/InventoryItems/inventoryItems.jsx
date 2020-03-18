@@ -159,12 +159,12 @@ export default class InventoryItems extends Component {
                                         <tbody>
                                             <tr>
                                                 <td>XT6379A-FGUS3</td>
-                                                <td>AT&T</td>
+                                                <td>AT&T<small>(US)</small></td>
                                                 <td>1100000061</td>
                                             </tr>
                                             <tr>
                                                 <td>XT6379H-FGUS3V</td>
-                                                <td>Voda</td>
+                                                <td>AT&T<small>(Canada)</small></td>
                                                 <td>1100000472</td>
                                             </tr>
                                         </tbody>
