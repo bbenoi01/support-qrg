@@ -88,7 +88,7 @@ export default class Day2Day extends Component {
                                             <button value='D2D2' onClick={this.day2daySelectInput} className="btn btn-outline-primary">Service Pricing</button>
                                             <button value='D2D3' onClick={this.day2daySelectInput} className="btn btn-outline-primary">Inventory Items</button>
                                             <button value='D2D4' onClick={this.day2daySelectInput} className="btn btn-outline-primary">Phone Numbers</button>
-                                            <button value='D2D5' onClick={this.day2daySelectInput} className="btn btn-outline-primary">Outbound Voicemail Msg</button>
+                                            <button value='D2D5' onClick={this.day2daySelectInput} className="btn btn-outline-primary">Verbatims/Disclosures</button>
                                             <button value='D2D6' onClick={this.day2daySelectInput} className="btn btn-outline-primary">Notes</button>
                                             {/* <button value='D2D7' onClick={this.day2daySelectInput} className="btn btn-outline-primary">1ERP</button> */}
                                         </div>
