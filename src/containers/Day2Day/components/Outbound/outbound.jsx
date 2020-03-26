@@ -7,6 +7,14 @@ export default class Outbound extends Component {
                 <div className="col-sm-12">
                     <div className="card">
                         <div className="card-body">
+                            <p><b>Outbound Disclosure</b></p>
+                            <br/>
+                            <p>Please note, this call may be monitored and recorded for quality assurance purposes.</p>
+                        </div>
+                    </div>
+                    <br/>
+                    <div className="card">
+                        <div className="card-body">
                             <p><b>Voice Mail Msg - Outbound</b></p>
                             <br/>
                             <p>Hello, this is [Name], calling with Verizon Connect.This message is for [Customer Name] and 
