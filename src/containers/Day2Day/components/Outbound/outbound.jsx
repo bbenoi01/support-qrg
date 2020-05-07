@@ -9,7 +9,7 @@ export default class Outbound extends Component {
                         <div className="card-body">
                             <p><b>Outbound Disclosure</b></p>
                             <br/>
-                            <p>Please note, this call may be monitored and recorded for quality assurance purposes.</p>
+                            <p>Please note that this call may be recorded or monitored for quality assurance and to improve customer experience.</p>
                         </div>
                     </div>
                     <br/>
