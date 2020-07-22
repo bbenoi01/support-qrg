@@ -19,7 +19,7 @@ export default class MobileApps extends Component {
                         <div className="card">
                             <div className="card-body text-left">
                                 <h5 className="card-title text-center">Reveal ELD LogBook</h5>
-                                <p><b>Android: </b>3.24.2.1</p>
+                                <p><b>Android: </b>3.24.5.2</p>
                                 <p><b>iOS: </b>3.23.2</p>
                             </div>
                         </div>
